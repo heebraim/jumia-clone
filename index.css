@@ -204,11 +204,7 @@ body ul{
     align-items: center;
     gap: var(--twelvepx);
 }
-.section1 div{
-    /* height: 59vh; */
-    /* border: 1px solid red; */
 
-}
 .section1div1{
     width: var(--twentypercent);
     display: flex;
@@ -1117,7 +1113,7 @@ body ul{
     display: flex;
     justify-content:center;
     align-items: center;
-    padding: ;
+   
     gap: var(--twelvepx);
     
     
@@ -1202,9 +1198,7 @@ body ul{
     
 
 }
-.section3div1{
 
-}
 .section4{
     height: 39vh;
     background-color: var(--white);
